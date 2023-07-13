@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.composetutorial'
+    namespace 'com.example.quotesapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.composetutorial"
+        applicationId "com.example.quotesapp"
         minSdk 24
         targetSdk 33
         versionCode 1
